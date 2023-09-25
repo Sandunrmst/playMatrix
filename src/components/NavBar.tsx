@@ -1,11 +1,12 @@
 import { HStack, Image, Text } from "@chakra-ui/react";
 import logo from "../assets/playMatrix.webp";
+import ColorModeSwitch from "./colorModeSwitch";
 
 const NavBar = () => {
   return (
-    <HStack>
+    <HStack justifyContent="space-between" padding="15px">
       <Image src={logo} boxSize="60px" />
-      <Text>Play Matrix</Text>
+      <ColorModeSwitch />
     </HStack>
   );
 };
