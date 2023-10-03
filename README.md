@@ -1,4 +1,5 @@
 # React + TypeScript + Vite
+<a href="https://zippy-marshmallow-6983b3.netlify.app/">Go Live Preview </a>
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
