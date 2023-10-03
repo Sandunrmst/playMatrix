@@ -1,7 +1,8 @@
 # React + TypeScript + Vite
 <a href="https://zippy-marshmallow-6983b3.netlify.app/" target="_blank">Go Live Preview </a>
 
-<img src="https://github.com/Sandunrmst/playMatrix/assets/49017841/7ea7cbf2-2a9a-48de-bd2d-3e3e5e53b404"/>
+<img src="https://github.com/Sandunrmst/playMatrix/assets/49017841/0439c9bd-6f5e-45bd-9b0f-5057951e94d4"/>
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
