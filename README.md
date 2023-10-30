@@ -1,4 +1,4 @@
-# React + TypeScript + Vite
+# React + TypeScript
 <a href="https://zippy-marshmallow-6983b3.netlify.app/" target="_blank">Go Live Preview </a>
 
 <img src="https://github.com/Sandunrmst/playMatrix/assets/49017841/0439c9bd-6f5e-45bd-9b0f-5057951e94d4"/>
